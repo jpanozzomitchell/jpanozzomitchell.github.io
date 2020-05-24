@@ -1,11 +1,11 @@
 # Site settings
-author: Jazmyn
-title: 
+author: Jazmyn Panozzo-Mitchell
+title: The Journey of Software Engineering 
 header-img: img/home-bg.png
 email: jpanozzomitchell@gmail.com
-copyright_name: Jazmyn
+copyright_name: Jazmyn Panozzo-Mitchell
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Studying with Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jpanozzomitchell
