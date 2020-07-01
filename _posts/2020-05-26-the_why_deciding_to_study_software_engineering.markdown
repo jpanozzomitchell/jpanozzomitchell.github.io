@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Why. Deciding to Study Software Engineering."
-date:       2020-05-26 04:28:36 +0000
+date:       2020-05-26 00:28:37 -0400
 permalink:  the_why_deciding_to_study_software_engineering
 ---
 
